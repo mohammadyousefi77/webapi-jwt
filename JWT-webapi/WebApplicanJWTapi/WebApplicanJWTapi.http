@@ -1,0 +1,6 @@
+@WebApplicanJWTapi_HostAddress = http://localhost:5227
+
+GET {{WebApplicanJWTapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
